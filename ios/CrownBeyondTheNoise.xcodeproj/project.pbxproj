@@ -9,12 +9,19 @@
 /* Begin PBXBuildFile section */
 		0C80B921A6F3F58F76C31292 /* libPods-CrownBeyondTheNoise.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-CrownBeyondTheNoise.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		1D693B08F90B4317A0D56479 /* Roboto-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7BFE3270D6DD452E858766D4 /* Roboto-SemiBold.ttf */; };
 		399C983BD48C0ABA0CFEA219 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		456D3D5D0E3442B584F04E95 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A81A2BB374664EFE9EFAD102 /* Roboto-Regular.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		9CDBD3FABA58477BAC292FF6 /* Roboto-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A92F48CE5F144B4B908172F /* Roboto-ExtraBold.ttf */; };
+		AE39C17D2CBB421CBD32DC0A /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0B97889A46FD42B790DD5CFB /* Roboto-Light.ttf */; };
+		D9D86CC1C86B40B59B7664B6 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A54C57012486428F9E412C42 /* Roboto-Medium.ttf */; };
+		E4886542ADDB4DBA9FDD1F71 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D1F38BA3962E47A5BD508F62 /* Roboto-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0B97889A46FD42B790DD5CFB /* Roboto-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Light.ttf"; path = "../assets/fonts/Roboto-Light.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* CrownBeyondTheNoise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CrownBeyondTheNoise.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = CrownBeyondTheNoise/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = CrownBeyondTheNoise/Info.plist; sourceTree = "<group>"; };
@@ -23,7 +30,12 @@
 		5709B34CF0A7D63546082F79 /* Pods-CrownBeyondTheNoise.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CrownBeyondTheNoise.release.xcconfig"; path = "Target Support Files/Pods-CrownBeyondTheNoise/Pods-CrownBeyondTheNoise.release.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-CrownBeyondTheNoise.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CrownBeyondTheNoise.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = CrownBeyondTheNoise/AppDelegate.swift; sourceTree = "<group>"; };
+		7BFE3270D6DD452E858766D4 /* Roboto-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-SemiBold.ttf"; path = "../assets/fonts/Roboto-SemiBold.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = CrownBeyondTheNoise/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9A92F48CE5F144B4B908172F /* Roboto-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-ExtraBold.ttf"; path = "../assets/fonts/Roboto-ExtraBold.ttf"; sourceTree = "<group>"; };
+		A54C57012486428F9E412C42 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Medium.ttf"; path = "../assets/fonts/Roboto-Medium.ttf"; sourceTree = "<group>"; };
+		A81A2BB374664EFE9EFAD102 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Regular.ttf"; path = "../assets/fonts/Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		D1F38BA3962E47A5BD508F62 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Bold.ttf"; path = "../assets/fonts/Roboto-Bold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -75,6 +87,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				D008BCD8BB02436FAC496BE9 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -96,6 +109,19 @@
 				5709B34CF0A7D63546082F79 /* Pods-CrownBeyondTheNoise.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		D008BCD8BB02436FAC496BE9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				D1F38BA3962E47A5BD508F62 /* Roboto-Bold.ttf */,
+				9A92F48CE5F144B4B908172F /* Roboto-ExtraBold.ttf */,
+				0B97889A46FD42B790DD5CFB /* Roboto-Light.ttf */,
+				A54C57012486428F9E412C42 /* Roboto-Medium.ttf */,
+				A81A2BB374664EFE9EFAD102 /* Roboto-Regular.ttf */,
+				7BFE3270D6DD452E858766D4 /* Roboto-SemiBold.ttf */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -161,6 +187,12 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				399C983BD48C0ABA0CFEA219 /* PrivacyInfo.xcprivacy in Resources */,
+				E4886542ADDB4DBA9FDD1F71 /* Roboto-Bold.ttf in Resources */,
+				9CDBD3FABA58477BAC292FF6 /* Roboto-ExtraBold.ttf in Resources */,
+				AE39C17D2CBB421CBD32DC0A /* Roboto-Light.ttf in Resources */,
+				D9D86CC1C86B40B59B7664B6 /* Roboto-Medium.ttf in Resources */,
+				456D3D5D0E3442B584F04E95 /* Roboto-Regular.ttf in Resources */,
+				1D693B08F90B4317A0D56479 /* Roboto-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -191,9 +223,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-CrownBeyondTheNoise/Pods-CrownBeyondTheNoise-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-CrownBeyondTheNoise/Pods-CrownBeyondTheNoise-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -230,9 +266,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-CrownBeyondTheNoise/Pods-CrownBeyondTheNoise-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-CrownBeyondTheNoise/Pods-CrownBeyondTheNoise-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -273,7 +313,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.CrownBeyondTheNoise;
 				PRODUCT_NAME = CrownBeyondTheNoise;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -300,7 +340,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.CrownBeyondTheNoise;
 				PRODUCT_NAME = CrownBeyondTheNoise;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -376,10 +416,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
@@ -448,10 +485,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
