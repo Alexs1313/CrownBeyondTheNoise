@@ -10,11 +10,11 @@ const Crownbeyondthenoiseld = () => {
   const navigation = useNavigation();
 
   useEffect(() => {
-    const timer = setTimeout(() => {
+    const loaderTimer = setTimeout(() => {
       navigation.replace('Crownbeyondthenoiseonb');
     }, 5600);
 
-    return () => clearTimeout(timer);
+    return () => clearTimeout(loaderTimer);
   }, [navigation]);
 
   return (
